@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Thu Mar 21 15:31:12 EDT 2024:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.16.1.1 - (1901046): instance a816c00e-018e-627e-f8be-000000f711b0 
+on database directory /Users/michaelgrantham/IdeaProjects/abcdatacollector/abcdatacollector with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@251a69d7 
+Loaded from file:/Users/michaelgrantham/.m2/repository/org/apache/derby/derby/10.16.1.1/derby-10.16.1.1.jar
+java.vendor=Oracle Corporation
+java.runtime.version=17.0.9+11-LTS-201
+user.dir=/Users/michaelgrantham/IdeaProjects/abcdatacollector
+os.name=Mac OS X
+os.arch=aarch64
+os.version=14.2.1
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
